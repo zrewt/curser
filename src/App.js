@@ -21,7 +21,7 @@ function App() {
       <main>
         <section className="hero">
           <div className="hero-content">
-            <h1>Welcome sir to Our Website</h1>
+            <h1>Welcome sir to Our Website we run this website for you</h1>
             <p>Discover amazing features and services that will transform your experience</p>
             <Button variant="primary">Get Started</Button>
           </div>

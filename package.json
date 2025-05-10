@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@llama-node/core": "^0.1.6"
+  }
+}
